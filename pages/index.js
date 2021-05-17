@@ -7,7 +7,7 @@ function HomePage() {
       <Head>
         <title>Ana Sayfa</title>
       </Head>
-      <h1 className="title"> Welcome to Next.js!</h1>
+      <h1 className="title"> İlk nextjs websitesi </h1>
 
       <style jsx>{`
         .title {
